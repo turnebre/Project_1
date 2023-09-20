@@ -344,4 +344,4 @@ Percent of matches:
 Image:               Beagle_01170.jpg  Classifier label:    Walker hound, Walker foxhound
 Image:       Great_pyrenees_05367.jpg  Classifier label:                           kuvasz
 
-** Total Elapsed Runtime: 0:59:27
+** Total Elapsed Runtime: 0:1:32

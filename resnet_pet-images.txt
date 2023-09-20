@@ -348,4 +348,4 @@ Image:               Beagle_01170.jpg  Classifier label:    Walker hound, Walker
 Image:     Golden_retriever_05182.jpg  Classifier label:                         Leonberg
 Image:       Great_pyrenees_05367.jpg  Classifier label:                           kuvasz
 
-** Total Elapsed Runtime: 0:59:55
+** Total Elapsed Runtime: 0:0:4

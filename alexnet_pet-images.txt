@@ -348,4 +348,4 @@ Image:     Golden_retriever_05182.jpg  Classifier label:                  Tibeta
 Image:       Great_pyrenees_05367.jpg  Classifier label:                           kuvasz
 Image:     Golden_retriever_05257.jpg  Classifier label:             Afghan hound, Afghan
 
-** Total Elapsed Runtime: 0:59:57
+** Total Elapsed Runtime: 0:0:2
