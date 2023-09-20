@@ -92,7 +92,6 @@ def calculates_results_stats(results_dic):
 
         if value[4] == 1 and value[3] == 1:
             results_stats_dic["n_correct_dogs"] += 1
-            print(results_stats_dic["n_correct_dogs"])
         elif value[4] == 0 and value[3] == 0:
             results_stats_dic["n_correct_notdogs"] += 1
 
