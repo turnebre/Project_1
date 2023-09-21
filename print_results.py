@@ -95,10 +95,14 @@ def print_results(
         print("\n**Misclassified Dogs:")
         for key, value in results_dic.items():
             if value[3] != value[4]:
-                print("Image: {:>30}  Classifier label: {:>32}".format(key, value[1]))
+                print(
+                    "Image: {:>30}  Classifier label: {:>32}".format(value[0], value[1])
+                )
 
     if print_incorrect_breed and correct_dogs != correct_breeds:
         print("\n**Misclassified Dog Breeds:")
         for key, value in results_dic.items():
             if value[2] == 0 and value[4] == 1 and value[3] == 1:
-                print("Image: {:>30}  Classifier label: {:>32}".format(key, value[1]))
+                print(
+                    "Image: {:>30}  Classifier label: {:>32}".format(value[0], value[1])
+                )
